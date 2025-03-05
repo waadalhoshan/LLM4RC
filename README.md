@@ -1,2 +1,2 @@
 # LLM4RC
-This GitHub repository hosts code, setups, and results for inference-based classification with pre-trained LLMs (Llama, Gemma, and Bloom). It explores how task definitions, dataset variations, and prompt formulations impact model performance in zero-training tasks, providing tools and data for research and practical applications.
+This GitHub repository accompanies the paper "How Capable are Generative LLMs in Performing Requirements Classification Across Varied Data, Prompts, and Tasks?" and provides datasets, results, and notebook for investigating generative LLMs in classifying software requirements. The repository is organized into directories, facilitating reproducibility and further research in this area.
